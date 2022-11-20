@@ -2,8 +2,7 @@
 
 ## AZ-801 at Microsoft Learn
 
-5 Learning Paths
-
+5 Learning Paths: 
 [https://aka.ms/AZ-801LearnCollection](https://aka.ms/AZ-801LearnCollection)
 
 
