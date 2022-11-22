@@ -8,6 +8,11 @@
 
 ## AZ-801 Labs
 
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
 [Microsoft Learning GitHub Repo AZ-801](https://github.com/MicrosoftLearning/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services)
 
 [AZ-801 Lab Instructions](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/)
