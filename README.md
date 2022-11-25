@@ -22,9 +22,9 @@
 ---
 
 
-[Give Feedback! (Metrics That Matter)](#az-801-configuring-windows-server-hybrid-advanced-services)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?850113589191300095)
 
-[Claim your Badge! (Microsoft Learn)](#az-801-configuring-windows-server-hybrid-advanced-services)
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=59DQK5&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 
 
