@@ -2,8 +2,8 @@
 
 ## AZ-801 at Microsoft Learn
 
-5 Learning Paths: 
-[https://aka.ms/AZ-801LearnCollection](https://aka.ms/AZ-801LearnCollection)
+ 
+[5 Learning Paths](https://aka.ms/AZ-801LearnCollection)
 
 
 ## AZ-801 Labs
@@ -15,20 +15,11 @@
 
 [Microsoft Learning GitHub Repo AZ-801](https://github.com/MicrosoftLearning/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services)
 
-[AZ-801 Lab Instructions](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/)
+[AZ-801 Lab Instructions step by step](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/)
 
 
 
----
 
-
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?850113589191300095)
-
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=59DQK5&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-
-
----
 
 
 
