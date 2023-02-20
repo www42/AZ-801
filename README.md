@@ -3,23 +3,15 @@
 ## AZ-801 at Microsoft Learn
 
  
-5 Learning Paths AZ-800 and AZ-801 together
+5 Learning Paths
 - Learning Path 1: [Secure Windows Server on-premises and hybrid infrastructure](https://learn.microsoft.com/en-us/training/paths/secure-windows-server-premises-hybrid-infrastructures/) (10 Modules)
-- Learning Path 2: []()
-- Learning Path 3: []()
-- Learning Path 4: []()
-- Learning Path 5: []()
+- Learning Path 2: [Implement Windows Server high availability](https://learn.microsoft.com/en-us/training/paths/implement-windows-server-high-availability/) (5 Modules)
+- Learning Path 3: [Implement disaster recovery in Windows Server on-premises and hybrid environments](https://learn.microsoft.com/en-us/training/paths/implement-disaster-recovery-windows-server-premises/) (5 Modules)
+- Learning Path 4: [Migrate servers and workloads in on-premises and hybrid environments](https://learn.microsoft.com/en-us/training/paths/migrate-servers-workloads-premises-hybrid-environments/) (6 Modules)
+- Learning Path 5: [Monitor and troubleshoot Windows Server environments](https://learn.microsoft.com/en-us/training/paths/monitor-troubleshoot-windows-server-environments/) (9 Modules)
 
 [Collection for AZ-801](https://aka.ms/AZ-801LearnCollection)
-- Windows Server security (4 Modules)
-- Implementing security solutions in hybrid scenarios (6 Modules)
-- Implementing Windows Server high availability (5 Modules)
-- Disaster recovery in Windows Server (2 Modules)
-- Implementing recovery services in hybrid scenarios (3 Modules)
-- Upgrade and migrate in Windows Server (3 Modules)
-- Implementing migration in hybrid scenarios (3 Modules)
-- Server and performance monitoring in Windows Server (4 Modules)
-- Implementing operational monitoring in hybrid scenarios (5 Modules)
+
 
 
 ## AZ-801 Labs
