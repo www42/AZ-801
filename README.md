@@ -1,5 +1,7 @@
 # AZ-801 Configuring Windows Server Hybrid Advanced Services
 
+[Download Presentation](pdf)
+
 ## AZ-801 at Microsoft Learn
 
  
