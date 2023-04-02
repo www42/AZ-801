@@ -1,12 +1,5 @@
 # AZ-801 Configuring Windows Server Hybrid Advanced Services
 
-[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?5BD3CE6B7194424950)
-
-[Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=XGXLYM&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
----
-
-[Download Presentation](pdf)
 
 ## AZ-801 at Microsoft Learn
 
@@ -18,7 +11,7 @@
 - Learning Path 4: [Migrate servers and workloads in on-premises and hybrid environments](https://learn.microsoft.com/en-us/training/paths/migrate-servers-workloads-premises-hybrid-environments/) (6 Modules)
 - Learning Path 5: [Monitor and troubleshoot Windows Server environments](https://learn.microsoft.com/en-us/training/paths/monitor-troubleshoot-windows-server-environments/) (9 Modules)
 
-[Collection for AZ-801](https://aka.ms/AZ-801LearnCollection)
+[All AZ-801 Learning Path in a Single Collection](https://aka.ms/AZ-801LearnCollection)
 
 
 
@@ -35,6 +28,9 @@
 
 
 
+## Tipps & Tricks
+
+[How to set keyboard layout to German](Keyboard-German)
 
 
 
