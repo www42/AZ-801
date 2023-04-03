@@ -1,8 +1,10 @@
 # AZ-801 Configuring Windows Server Hybrid Advanced Services
 
+[Get the presentation](pdf)
+
+---
 
 ## AZ-801 at Microsoft Learn
-
  
 5 Learning Paths
 - Learning Path 1: [Secure Windows Server on-premises and hybrid infrastructure](https://learn.microsoft.com/en-us/training/paths/secure-windows-server-premises-hybrid-infrastructures/) (10 Modules)
