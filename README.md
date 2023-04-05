@@ -34,6 +34,8 @@
 
 [How to set keyboard layout to German](Keyboard-German)
 
+[The Moron's Guide to Kerberos](https://wpollock.com/AUnixSec/MoronsGuideToKerberos.htm)
+
 
 
 
