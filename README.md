@@ -3,7 +3,7 @@
 
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?4DAA11A9C195872639)
 
-[Claim your badge!]https://learn.microsoft.com/users/me/achievements?redeem=V4MND8&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+[Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=V4MND8&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 [Get the presentation!](pdf)
 
