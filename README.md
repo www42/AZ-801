@@ -1,14 +1,21 @@
+[LP1]: https://learn.microsoft.com/en-us/training/paths/secure-windows-server-premises-hybrid-infrastructures/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/implement-windows-server-high-availability/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/implement-disaster-recovery-windows-server-premises/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/migrate-servers-workloads-premises-hybrid-environments/
+[LP5]: https://learn.microsoft.com/en-us/training/paths/monitor-troubleshoot-windows-server-environments/
+
+
 # AZ-801 Configuring Windows Server Hybrid Advanced Services
 
 <br>
 
 ## Learning Paths
 
-- Learning Path 1: [Secure Windows Server on-premises and hybrid infrastructure](https://learn.microsoft.com/en-us/training/paths/secure-windows-server-premises-hybrid-infrastructures/)
-- Learning Path 2: [Implement Windows Server high availability](https://learn.microsoft.com/en-us/training/paths/implement-windows-server-high-availability/)
-- Learning Path 3: [Implement disaster recovery in Windows Server on-premises and hybrid environments](https://learn.microsoft.com/en-us/training/paths/implement-disaster-recovery-windows-server-premises/)
-- Learning Path 4: [Migrate servers and workloads in on-premises and hybrid environments](https://learn.microsoft.com/en-us/training/paths/migrate-servers-workloads-premises-hybrid-environments/)
-- Learning Path 5: [Monitor and troubleshoot Windows Server environments](https://learn.microsoft.com/en-us/training/paths/monitor-troubleshoot-windows-server-environments/)
+- Learning Path 1: [Secure Windows Server on-premises and hybrid infrastructure][LP1]
+- Learning Path 2: [Implement Windows Server high availability][LP2]
+- Learning Path 3: [Implement disaster recovery in Windows Server on-premises and hybrid environments][LP3]
+- Learning Path 4: [Migrate servers and workloads in on-premises and hybrid environments][LP4]
+- Learning Path 5: [Monitor and troubleshoot Windows Server environments][LP5]
 
 <br>
 
