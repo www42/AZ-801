@@ -20,6 +20,8 @@
 
 ## Labs
 
+[Lab 7 Windows Server 2022 Eval vhd download](https://go.microsoft.com/fwlink/p/?linkid=2195166&clcid=0x409&culture=en-us&country=us)
+
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
