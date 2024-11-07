@@ -15,9 +15,9 @@
 
 [Grab your Badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=NLV9LD)
 
-[Applied Skills Deploy and configure Azure Monitor](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
+Applied Skills: [Deploy and configure Azure Monitor (AZ-1004)](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
-[Applied Skills Emails](AZ-1004/AZ-1004%20Emails.txt)
+Applied Skills: [AZ-1004 Emails](AZ-1004/AZ-1004%20Emails.txt)
 
 <br>
 
