@@ -9,6 +9,15 @@
 
 <br>
 
+## Seminar 4. - 7. November 2024
+
+[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?DDB3C49D4215774252)
+
+[Grab your Badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=NLV9LD)
+
+
+<br>
+
 ## Learning Paths
 
 - Learning Path 1: [Secure Windows Server on-premises and hybrid infrastructure][LP1]
@@ -19,8 +28,6 @@
 
 
 ## Labs
-
-[Lab 7 Windows Server 2022 Eval vhd download](https://go.microsoft.com/fwlink/p/?linkid=2195166&clcid=0x409&culture=en-us&country=us)
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
