@@ -81,7 +81,6 @@ You need to pass both exams to earn certification:
 
 [Microsoft Ignite November 19 - 21, 2024](https://ignite.microsoft.com/en-US/home)
 
-[AI Skills Challenge (ends November 1, 2024)](https://learn.microsoft.com/en-us/training/topics/event-challenges?tabs=azure-ai)
 
 <br>
 
