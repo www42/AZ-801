@@ -9,6 +9,7 @@
 
 <br>
 
+<!--
 ## Seminar 4. - 7. November 2024
 
 [Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?DDB3C49D4215774252)
@@ -20,6 +21,7 @@ Applied Skills: [Deploy and configure Azure Monitor (AZ-1004)](https://learn.mic
 Applied Skills: [AZ-1004 Emails](AZ-1004/AZ-1004%20Emails.txt)
 
 <br>
+-->
 
 ## Learning Paths
 
